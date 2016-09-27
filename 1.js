@@ -3,4 +3,5 @@ windwo.onload = function(){
 	console.log(111);
 	alert("this is new1style");
 	alert("this is the wawad");
+	alert("this is end");
 }
